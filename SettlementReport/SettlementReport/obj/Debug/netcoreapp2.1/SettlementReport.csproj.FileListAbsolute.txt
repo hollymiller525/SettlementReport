@@ -1,0 +1,11 @@
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\bin\Debug\netcoreapp2.1\SettlementReport.deps.json
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\bin\Debug\netcoreapp2.1\SettlementReport.runtimeconfig.json
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\bin\Debug\netcoreapp2.1\SettlementReport.runtimeconfig.dev.json
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\bin\Debug\netcoreapp2.1\SettlementReport.dll
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\bin\Debug\netcoreapp2.1\SettlementReport.pdb
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.csprojAssemblyReference.cache
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.csproj.CoreCompileInputs.cache
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.AssemblyInfoInputs.cache
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.AssemblyInfo.cs
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.dll
+C:\Users\holly.miller\Documents\Learning\SettlementReport\SettlementReport\obj\Debug\netcoreapp2.1\SettlementReport.pdb
